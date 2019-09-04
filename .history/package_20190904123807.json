@@ -1,0 +1,13 @@
+{
+  "name": "cluster-fuck",
+  "version": "1.0.0",
+  "description": "Some Image Clustering algos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
